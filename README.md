@@ -1,4 +1,5 @@
-# MiniRAGX
+# CiteRAG-A-Lightweight-Retrieval-Augmented-QA-System
+
 
 A Retrieval-Augmented Generation (RAG) application that allows users to ingest documents, store them in a vector database, and query them using an LLM with inline citations.
 
