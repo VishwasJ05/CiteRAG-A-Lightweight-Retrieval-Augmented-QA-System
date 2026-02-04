@@ -115,7 +115,7 @@ Region: us-east-1
 
 ```bash
 # Clone repository
-git clone https://github.com/Crypt0-X2/mini-RAG.git
+git clone https://github.com/VishwasJ05/CiteRAG-A-Lightweight-Retrieval-Augmented-QA-System
 cd mini-RAG
 
 # Create virtual environment
