@@ -1,2 +1,0 @@
-# mini-RAG-main
-
