@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) application that allows users to ingest documents, store them in a vector database, and query them using an LLM with inline citations.
 
-**📄 [Resume Link]([https://drive.google.com/file/d/1NiUaUQke0eTOX0M9qmPgbOrmDzH3UIIF/view?usp=sharing])** 
+**📄 [Resume Link](https://drive.google.com/file/d/1NiUaUQke0eTOX0M9qmPgbOrmDzH3UIIF/view?usp=sharing)** 
 
 ---
 
@@ -337,5 +337,5 @@ MIT License - feel free to use and modify.
 ---
 
 ## 👤 Author
-
+-Vishwas Jasuja
 Built for the AI Engineer Track B Assessment.
