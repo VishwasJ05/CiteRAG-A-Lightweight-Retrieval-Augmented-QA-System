@@ -338,5 +338,5 @@ MIT License - feel free to use and modify.
 ---
 
 ## 👤 Author
--Vishwas Jasuja
+
 Built for the AI Engineer Track B Assessment.
